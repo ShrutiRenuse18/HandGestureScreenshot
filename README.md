@@ -1,6 +1,7 @@
 # HandGestureScreenshot
 
 Overview
+
 HandGestureScreenshot is a Python-based project that allows users to capture screenshots using hand gestures. The algorithm recognizes a specific hand gesture to trigger the screenshot, enabling a hands-free approach to screen capture.
 
 Features

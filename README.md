@@ -1,9 +1,10 @@
-# Screenshot
+# HandGestureScreenshot
 
-* To take a screenshot of the complete computer screen, the algorithm recognises a hand gesture with three fingers
-  (specifically, the index finger, thumb finger, and ring finger).
+Overview
+HandGestureScreenshot is a Python-based project that allows users to capture screenshots using hand gestures. The algorithm recognizes a specific hand gesture to trigger the screenshot, enabling a hands-free approach to screen capture.
 
-* It utilises the mediapipe Python package and OpenCV.
-
-* The code manages the system devoid of touch inputs.Thus encouraging a hands-free approach.
+Features
+*Hand Gesture Recognition: Utilizes MediaPipe and OpenCV to recognize a specific hand gesture involving the index finger, thumb, and ring finger.
+*Hands-Free Operation: No touch inputs are required, promoting a seamless and convenient way to capture screenshots.
+*Full Screen Capture: Takes a screenshot of the entire computer screen.
 
